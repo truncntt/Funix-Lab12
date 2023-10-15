@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+#myCarousel {
+    width: 100%;
+    overflow: hidden;
+}
+img {
+    background-color: #000;
+    background-size: auto;
+    background-repeat: no-repeat;
+    object-fit: scale-down;
+}
+
+footer {
+    margin-left: 7rem;
+    margin-bottom: 2rem;
+}
+
+footer p {
+    display: inline;
+    position: absolute;
+}
+
+footer div a {
+    position: relative;
+    top: 0;
+    left: 90%;
+}
